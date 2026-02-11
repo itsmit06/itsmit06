@@ -41,17 +41,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitLahute&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmit06&show_icons=true&theme=tokyonight)
 
----
-
-## 🌐 Connect With Me  
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sumit-lahute-55450a27b/  
-- 📧 **Email:** sumitlahute40@gmail.com  
+![Profile Views](https://komarev.com/ghpvc/?username=itsmit06)
 
 ---
 
-⭐ *Focused on quality, continuous learning, and building a strong QA foundation.*
+## 🌐 Connect With Me
+
+- 👔 **LinkedIn:** [Sumit Lahute](https://www.linkedin.com/in/sumit-lahute-55450a27b/)
+- 📧 **Email:** sumitlahute40@gmail.com
