@@ -41,13 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsmit06&show_icons=true&theme=default&cache_seconds=1800" />
-
-<img src="https://komarev.com/ghpvc/?username=itsmit06" />
----
-
 ## 🌐 Connect With Me
 
 - 👔 **LinkedIn:** [Sumit Lahute](https://www.linkedin.com/in/sumit-lahute-55450a27b/)
