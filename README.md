@@ -43,10 +43,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsmit06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsmit06&show_icons=true&theme=default&cache_seconds=1800" />
 
-<img src="https://komarev.com/ghpvc/?username=itsmit06" alt="Profile Views" />
-
+<img src="https://komarev.com/ghpvc/?username=itsmit06" />
 ---
 
 ## 🌐 Connect With Me
