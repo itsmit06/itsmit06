@@ -43,9 +43,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmit06&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=itsmit06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsmit06)
+<img src="https://komarev.com/ghpvc/?username=itsmit06" alt="Profile Views" />
 
 ---
 
